@@ -24,3 +24,14 @@ int i3 = (int)(i / 1.0);
 Console.WriteLine(i);
 Console.WriteLine(i2);
 Console.WriteLine(i3);
+
+double di = i;
+Console.WriteLine(i / 5);
+Console.WriteLine(di / 5);
+Console.WriteLine(i / 5.0);
+
+int willFail = (int)42.0;
+int willAlsoFail = (int)(i / 1.0);
+
+Console.WriteLine(willFail);
+Console.WriteLine(willAlsoFail);

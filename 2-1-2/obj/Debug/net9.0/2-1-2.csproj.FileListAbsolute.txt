@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/obj/Debug/net9.0/2-1-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/obj/Debug/net9.0/2-1-2.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/obj/Debug/net9.0/2-1-2.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/obj/Debug/net9.0/2-1-2.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/obj/Debug/net9.0/2-1-2.sourcelink.json
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/bin/Debug/net9.0/2-1-2
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/bin/Debug/net9.0/2-1-2.deps.json
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/bin/Debug/net9.0/2-1-2.runtimeconfig.json
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/bin/Debug/net9.0/2-1-2.dll
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/bin/Debug/net9.0/2-1-2.pdb
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/obj/Debug/net9.0/2-1-2.dll
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/obj/Debug/net9.0/refint/2-1-2.dll
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/obj/Debug/net9.0/2-1-2.pdb
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/obj/Debug/net9.0/2-1-2.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/C#_Oreilly/2-1-2/obj/Debug/net9.0/ref/2-1-2.dll
